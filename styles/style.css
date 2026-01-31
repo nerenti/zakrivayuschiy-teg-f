@@ -243,7 +243,7 @@ button:hover::before {
 }
 
 .brightness {
-  filter: brightness(200%);
+  filter: brightness(50%);
 }
 
 .contrast {
